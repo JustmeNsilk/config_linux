@@ -1,0 +1,9 @@
+# Regular files like this one can be used as a ghostty config file.
+# Just make sure to include 'config-file = file_name' in config.ghostty :D
+
+#                --------------------------------
+#		|	Terminal's Keybinds	 |
+#                --------------------------------
+
+keybind = ctrl+x=close_surface
+keybind = ctrl+d=new_split:right
